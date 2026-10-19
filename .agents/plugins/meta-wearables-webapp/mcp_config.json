@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "wearables": {
+      "serverUrl": "https://mcp.developer.meta.com/wearables"
+    }
+  }
+}

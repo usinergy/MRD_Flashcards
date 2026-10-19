@@ -1,0 +1,9 @@
+{
+  "name": "meta-wearables-webapp",
+  "version": "128.1.0",
+  "description": "Meta Ray-Ban Display web app skills for React, UI Toolkit, and performance optimization",
+  "author": {
+    "name": "Meta Wearables"
+  },
+  "skills": ["./skills/"]
+}
